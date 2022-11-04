@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '我最爱的妈妈',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o1cwX6LxzituWgc4EVN91otqBf3w',
+      id: 'o1cwX6DXliB1BWgedDaZA-02b_cE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DFQ-JRux9vsV5c7WvtoJmg68vjUDeCyQrnX6oLZU6r8',
+      useTemplateId: '	O-g-6FHxWQcjzqlS5eGdLzS_1Zh0xSqEY8DbBU5YnQ4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
